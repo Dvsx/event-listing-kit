@@ -1,0 +1,4 @@
+interface:
+  display_name: "活动报名素材包"
+  short_description: "制作活动标题、亮点、详情文案、封面与高清海报，支持去码和局部重排"
+  default_prompt: "使用 $event-listing-kit，根据我提供的活动资料制作报名文案与图片。"
