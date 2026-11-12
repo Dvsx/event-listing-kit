@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">活动资料到报名素材的三个步骤</title>
+  <desc id="desc">整理活动事实，制作报名文案与图片，核对后交付。发布由用户决定。</desc>
+  <rect width="1200" height="270" rx="20" fill="#f6f4ee"/>
+  <g font-family="Segoe UI, Microsoft YaHei, PingFang SC, sans-serif">
+    <g transform="translate(50 48)">
+      <text y="28" font-size="24" font-weight="700" fill="#b74d28">01 / INPUT</text>
+      <text y="100" font-size="46" font-weight="700" fill="#173e35">整理活动事实</text>
+      <text y="154" font-size="25" fill="#52685e">海报 · 文字 · 品牌要求</text>
+    </g>
+    <path d="M365 128h44m-12-12 12 12-12 12" fill="none" stroke="#b74d28" stroke-width="3"/>
+    <g transform="translate(450 48)">
+      <text y="28" font-size="24" font-weight="700" fill="#b74d28">02 / MAKE</text>
+      <text y="100" font-size="46" font-weight="700" fill="#173e35">制作报名素材</text>
+      <text y="154" font-size="25" fill="#52685e">标题 · 正文 · 封面 · 海报</text>
+    </g>
+    <path d="M765 128h44m-12-12 12 12-12 12" fill="none" stroke="#b74d28" stroke-width="3"/>
+    <g transform="translate(850 48)">
+      <text y="28" font-size="24" font-weight="700" fill="#b74d28">03 / CHECK</text>
+      <text y="100" font-size="46" font-weight="700" fill="#173e35">核对与交付</text>
+      <text y="154" font-size="25" fill="#52685e">信息一致 · 图片清晰</text>
+    </g>
+  </g>
+</svg>
